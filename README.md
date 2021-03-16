@@ -11,9 +11,10 @@
 
 <br />
 
-Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate self-taught Software Developer specializing in Swift Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- Being on both sides of the spectrum, Product support being the first role made me understand the user and software requirements in general with much clarity, and using the learnings from it helped me better my thinking towards building the product as a Software Developer later.
+- I have done my undergrad in B.Tech majoring in Information Technology. Right now, I am in my Final Semester of MS in Computer Software Engineering to pursue my interests in more depth.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
@@ -24,6 +25,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://res.cloudinary.com/django/image/upload/v1615870627/swift1_ttwn40.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
