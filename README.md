@@ -16,7 +16,7 @@ Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passiona
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
@@ -36,9 +36,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **How I Spend My Time:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript  ██████████▒░░░░░░░░░░░░░░   40.00 % 
-Python      ██████████▒░░░░░░░░░░░░░░   40.00 % 
-Other       █████▒░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript  █████████▒░░░░░░░░░░░░░░   40.00 % 
+Python      █████████▒░░░░░░░░░░░░░░   40.00 % 
+Other       ████▒░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 <!--END_SECTION:waka-->
 
