@@ -16,10 +16,10 @@ Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passiona
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@anshulkapoor018](https://twitter.com/anshulkapoor018);
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1Gktruga2PIDxEAoBMDny5fG7YSX1aQ-u/view?usp=sharing)
 
 **Languages and Tools:**  
