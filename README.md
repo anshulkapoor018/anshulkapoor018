@@ -19,7 +19,7 @@ Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passiona
 >I have done my undergrad in *B.Tech* majoring in **Information Technology**. Right now, I am in my Final Semester of *MS* in **Computer Software Engineering** to pursue my interests in more depth.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
@@ -49,4 +49,4 @@ Other       ████▒░░░░░░░░░░░░░░░░░�
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anshulkapoor018&show_icons=true&theme=gotham" alt="anshulkapoor018" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=anshulkapoor018&show_icons=true&theme=gotham" alt="anshulkapoor018" />
