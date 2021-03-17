@@ -19,7 +19,7 @@ Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passiona
 >I have done my undergrad in *B.Tech* majoring in **Information Technology**. Right now, I am in my Final Semester of *MS* in **Computer Software Engineering** to pursue my interests in more depth.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="300" />
+  <img align="right" style = "box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;"alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="280" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
