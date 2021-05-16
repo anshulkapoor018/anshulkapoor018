@@ -51,5 +51,5 @@ Other       ████▒░░░░░░░░░░░░░░░░░�
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=anshulkapoor018&show_icons=true&theme=gotham" alt="anshulkapoor018" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkapoor018&show_icons=true&&theme=gotham&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkapoor018&show_icons=true&theme=gotham&langs_count=8&layout=compact"/>
 </p>
