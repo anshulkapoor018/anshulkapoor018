@@ -14,9 +14,15 @@
 Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate self-taught Software Developer specializing in Swift Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 👨‍💻 **Work Summary:**  
->Being on both sides of the spectrum, Product support being the first role made me understand the user and software requirements in general with much clarity, and using the learnings from it helped me better my thinking towards building the product as a Software Developer later.
+As an experienced professional with a passion for innovation, I have dedicated 5 years to refining my skills as a full-stack developer. With a particular emphasis on web and mobile development, I thrive on creating cutting-edge solutions that push the boundaries of what is possible.
 
->I have done my undergrad in *B.Tech* majoring in **Information Technology**. Right now, I am in my Final Semester of *MS* in **Computer Software Engineering** to pursue my interests in more depth.
+My journey began with a Bachelor of Technology degree, where I laid the groundwork for my technical expertise. Throughout my career, I have continuously expanded my knowledge and stayed abreast of the latest advancements in the field. This has allowed me to embrace emerging technologies and harness them to drive innovation.
+
+One of my standout achievements was spearheading the development of an iOS app from scratch, designed to revolutionize how students prepare for India's most competitive exam, 'UPSC'. This project showcased my ability to conceptualize and execute innovative solutions, leveraging my proficiency in mobile development and my understanding of user needs.
+
+In addition to my mobile development skills, I possess a strong command of web development technologies. My full-stack capabilities enable me to seamlessly bridge the gap between frontend and backend development, ensuring cohesive and efficient systems. I am well-versed in the latest frameworks, tools, and techniques that empower me to deliver exceptional user experiences.
+
+Currently, I am fortunate to collaborate with industry-leading professionals in the FinTech sector, where I am focused on simplifying the bill payment process. This opportunity allows me to apply my skills as an innovator and full-stack developer to create intuitive and user-centric solutions.
 
 
   <img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/main/code.gif?raw=true" width="480" height="280" />
