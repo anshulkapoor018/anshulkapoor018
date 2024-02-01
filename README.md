@@ -4,25 +4,24 @@
 
 <br />
 
-Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate self-taught Software Developer specializing in Swift Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate Software Developer specializing in Swift Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 👨‍💻 **Work Summary:**  
-As an experienced professional with a passion for innovation, I have dedicated 5 years to refining my skills as a full-stack developer. With a particular emphasis on web and mobile development, I thrive on creating cutting-edge solutions that push the boundaries of what is possible.
+As a Software Engineer with over 5 years of experience, I've honed my expertise in front-end development and SDK design, with a strong foundation in full-stack development. My career is marked by a passion for innovation, especially in web and mobile application development, where I've consistently pushed the boundaries of technology to deliver cutting-edge solutions.
 
-My journey began with a Bachelor of Technology degree, where I laid the groundwork for my technical expertise. Throughout my career, I have continuously expanded my knowledge and stayed abreast of the latest advancements in the field. This has allowed me to embrace emerging technologies and harness them to drive innovation.
+Holding a Bachelor of Technology and an MS in Software Engineering, my journey in tech began with a robust foundation in technical fundamentals. Throughout my career, I've been committed to continuous learning, staying at the forefront of technological advancements. My educational background has not only solidified my technical expertise but also empowered me to leverage emerging technologies in driving innovation and solving complex challenges.
 
-One of my standout achievements was spearheading the development of an iOS app from scratch, designed to revolutionize how students prepare for India's most competitive exam, 'UPSC'. This project showcased my ability to conceptualize and execute innovative solutions, leveraging my proficiency in mobile development and my understanding of user needs.
+A highlight of my career was leading the development of a pioneering iOS app aimed at transforming the preparation approach for India's challenging UPSC exam. This project was a testament to my ability to blend innovative thinking with deep mobile development expertise and a keen understanding of user needs.
 
-In addition to my mobile development skills, I possess a strong command of web development technologies. My full-stack capabilities enable me to seamlessly bridge the gap between frontend and backend development, ensuring cohesive and efficient systems. I am well-versed in the latest frameworks, tools, and techniques that empower me to deliver exceptional user experiences.
+Beyond mobile development, my proficiency extends to web technologies. My full-stack experience allows me to seamlessly integrate front-end and back-end development, creating cohesive and efficient systems. I excel in using modern frameworks, tools, and techniques to craft exceptional user experiences.
 
-Currently, I am fortunate to collaborate with industry-leading professionals in the FinTech sector, where I am focused on simplifying the bill payment process. This opportunity allows me to apply my skills as an innovator and full-stack developer to create intuitive and user-centric solutions.
+Currently, I am a key player in the FinTech sector at BillGo, contributing to simplifying and revolutionizing the bill payment process. Here, my role as an innovator and full-stack developer involves creating intuitive, user-centric solutions that make financial transactions smoother and more accessible.
 
-
-  <img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/main/code.gif?raw=true" width="480" height="280" />
+<img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/main/code.gif?raw=true" width="480" height="280" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1Gktruga2PIDxEAoBMDny5fG7YSX1aQ-u/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1veDSkWIC6M4fd5UgJhM1wrGMnglDMFTJ/view?usp=sharing)
 
 **Languages and Tools:**  
 
