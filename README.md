@@ -1,29 +1,29 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-
 <br />
 
-Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018), a passionate Software Developer specializing in Swift Programming and Full Stack Web Development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anshul Kapoor](https://www.linkedin.com/in/anshulkapoor018),
+I’m a Software Engineer focused on building scalable fintech products, modern web platforms, and high-performance customer experiences across distributed frontend ecosystems.
+Over the past several years, I’ve worked across frontend architecture, SDK/platform engineering, microfrontend systems, and full-stack product development using technologies such as Angular, React, React Native, TypeScript, GraphQL, Node.js, and cloud-native infrastructure.
+My career has evolved from mobile and full-stack application development into leading modernization initiatives, platform engineering efforts, and scalable customer-facing systems within fintech environments processing billions in transaction volume annually.
 
-👨‍💻 **Work Summary:**  
-As a Software Engineer with over 6 years of experience, I've honed my expertise in front-end development and SDK design, with a solid foundation in full-stack development. My career is marked by a passion for innovation in web and mobile application development, consistently pushing technological boundaries to deliver cutting-edge solutions.
+At BILL, I work on the Accounts Receivable platform, helping modernize large-scale invoicing and payment workflows into scalable microfrontend-based systems serving hundreds of thousands of SMBs. My work spans frontend architecture, GraphQL-driven applications, developer experience improvements, testing infrastructure, observability, and AI-assisted engineering workflows that accelerate modernization and reduce technical debt.
+Previously at BillGO, I focused heavily on SDK and platform engineering, leading development of reusable UI and integration systems that significantly improved developer productivity and streamlined large-scale fintech integrations.
 
-I hold a Bachelor of Technology and an MS in Software Engineering. My education has solidified my technical expertise and empowered me to leverage emerging technologies to drive innovation and solve complex challenges.
-
-A career highlight was leading the development of a pioneering iOS app for UPSC exam preparation, blending innovative thinking with deep mobile development expertise.
-
-Beyond mobile development, my full-stack experience allows me to seamlessly integrate front-end and back-end development, creating cohesive and efficient systems. I excel in using modern frameworks and tools to craft exceptional user experiences.
-
-At BillGO, I was promoted to Software Engineer III, where I spearheaded the design of reusable UI components and led a client-facing fintech product, managing over a billion dollars in transactions yearly.
-
-Currently, I am a Software Engineer at BILL, focusing on frontend development in the Account Receivables team, creating user-centric solutions that enhance financial transactions.
+I’m particularly interested in the intersection of:
+• Product Engineering
+• Platform & Systems Design
+• Developer Experience
+• Frontend Architecture
+• AI-Augmented Engineering Workflows
+• Modernization of Large-Scale Applications
+Outside of work, I enjoy exploring emerging technologies, building side projects, and staying close to the evolving landscape of modern software engineering.
 
 <img align="right" alt="GIF" src="https://github.com/anshulkapoor018/anshulkapoor018/blob/main/code.gif?raw=true" width="480" height="280" />
   
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@anshulkapoor018](mailto:anshulkapoor018@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1veDSkWIC6M4fd5UgJhM1wrGMnglDMFTJ/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1aSJibaapqYEVO4TVClzV5rYAjisOHsP4/view?usp=sharing)
 
 **Languages and Tools:**  
 
